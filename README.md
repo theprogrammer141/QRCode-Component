@@ -25,7 +25,7 @@ Here's my journey:
 
 ### Links
 
-- Live Site URL:(https://your-live-site-url.com)
+- Live Site URL:(https://qrcode-comp-design.netlify.app/)
 
 ## My process
 
